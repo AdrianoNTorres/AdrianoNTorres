@@ -25,5 +25,9 @@
 
 ---
 
-### ⚡ Contact
-`Adriano.Torres@stonybrook.edu`
+### ⚡ Contacts
+[![SBU Email](https://img.shields.io/badge/Academic-Adriano.Torres%40stonybrook.edu-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](mailto:adriano.torres@stonybrook.edu)
+
+[![Personal Email](https://img.shields.io/badge/Personal-Adriano.N.Torres22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriano.n.torres22@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Adriano-N-Torres)
