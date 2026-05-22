@@ -1,4 +1,4 @@
-# Adriano N Torres | Physics & Math @ SBU
+# Adriano N Torres | Physics Major transitioning to Data Science @ SBU
 
 ### 🛠️ Tech Stack
 
