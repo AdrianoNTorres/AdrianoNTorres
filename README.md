@@ -44,7 +44,7 @@ English · German · Spanish
 ---
 
 ### Projects
-- **[IBM-AI-RACE-CHALLENGE](https://github.com/AdrianoNTorres/IBM-AI-RACE-CHALLENGE)** *(in progress)*: Self-driving TORCS racing bot written as a Python client, tuned for lap time on the Corkscrew track.
+- **[IBM-AI-RACE-CHALLENGE](https://github.com/AdrianoNTorres/IBM-AI-RACE-CHALLENGE)**: Self-driving TORCS racing bot written as a Python client, tuned for lap time on the Corkscrew track.
 - **AI-Powered Suspension Tuning Advisor** *(early development, private repo)*: Half-car pitch physics simulator paired with Gaussian Process Bayesian Optimization to tune suspension settings, with an optional BeamNG.drive validation bridge and a Streamlit dashboard.
 - **[1D-Crash-Physics-Engine](https://github.com/AdrianoNTorres/1D-Physics-Engine)**: Custom physics engine focusing on predictive math logic and chase-cam implementations.
 - **[GraphsOfNorms](https://github.com/AdrianoNTorres/GraphsOfNorms)**: PySide6 utility for coordinate scaling and visualization of mathematical norms.
