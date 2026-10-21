@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36" role="img" aria-label="Connect on LinkedIn">
+<rect x="0.5" y="0.5" width="209" height="35" rx="8" fill="#161B22" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="4" height="35" rx="2" fill="#0A66C2"/>
+<rect x="14" y="10" width="16" height="16" rx="3" fill="#0A66C2"/><text x="22" y="22.5" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">in</text>
+<text x="42" y="22.5" font-size="13.5" font-weight="600" fill="#e6edf3" font-family="Segoe UI,-apple-system,Helvetica,Arial,sans-serif">Connect on LinkedIn</text>
+</svg>

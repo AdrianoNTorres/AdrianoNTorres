@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="255" height="36" viewBox="0 0 255 36" role="img" aria-label="School email: Stony Brook">
+<rect x="0.5" y="0.5" width="254" height="35" rx="8" fill="#161B22" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="4" height="35" rx="2" fill="#4a86d1"/>
+<rect x="14" y="11" width="16" height="14" rx="2" fill="none" stroke="#4a86d1" stroke-width="1.6"/><polyline points="14.8,12 22,19 29.2,12" fill="none" stroke="#4a86d1" stroke-width="1.6"/>
+<text x="42" y="22.5" font-size="13.5" font-weight="600" fill="#e6edf3" font-family="Segoe UI,-apple-system,Helvetica,Arial,sans-serif">School email: Stony Brook</text>
+</svg>

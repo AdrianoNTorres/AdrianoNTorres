@@ -1,8 +1,8 @@
 <h1 align="left">Adriano N. Torres</h1>
 
-[![Typing animation: Physics student at Stony Brook; I build Python tools, simulations and optimizers; looking for 2027 ML and data internships](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1800&color=3B82F6&width=720&height=40&lines=Physics+student+at+Stony+Brook;I+build+Python+tools%2C+simulations+and+optimizers;Looking+for+2027+ML+and+data+internships)](https://github.com/AdrianoNTorres)
+[![Typing animation: Physics student at Stony Brook; I build Python tools, simulations and optimizers; looking for 2027 ML and data internships](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1200&color=1FB655&letterSpacing=0.5px&width=760&height=50&lines=Physics+student+at+Stony+Brook;I+build+Python+tools%2C+simulations+and+optimizers;Looking+for+2027+ML+and+data+internships)](https://github.com/AdrianoNTorres)
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-on_LinkedIn-161B22?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-n-torres/) [![School email: Stony Brook](https://img.shields.io/badge/School_email-Stony_Brook-161B22?style=flat&labelColor=003366&logo=maildotru&logoColor=white)](mailto:adriano.torres@stonybrook.edu) [![Personal email: Proton Mail](https://img.shields.io/badge/Personal_email-Proton_Mail-161B22?style=flat&labelColor=6D4AFF&logo=protonmail&logoColor=white)](mailto:adriano_noah_torres@proton.me)
+<a href="https://www.linkedin.com/in/adriano-n-torres/"><img src="assets/contact/linkedin.svg" width="210" height="36" alt="Connect on LinkedIn"></a> <a href="mailto:adriano.torres@stonybrook.edu"><img src="assets/contact/school-email.svg" width="255" height="36" alt="School email: Stony Brook"></a> <a href="mailto:adriano_noah_torres@proton.me"><img src="assets/contact/personal-email.svg" width="270" height="36" alt="Personal email: Proton Mail"></a>
 
 ---
 
@@ -20,12 +20,12 @@ I'm looking for 2027 internships in machine learning, data science and software 
 
 | Project | What it does | Built with | Status |
 |---|---|---|---|
-| [IBM-AI-RACE-CHALLENGE](https://github.com/AdrianoNTorres/IBM-AI-RACE-CHALLENGE) | Self-driving racing bot for TORCS, tuned over 133 versions | Python, JavaScript | <img src="assets/status/active.svg" width="14" height="14" alt=""> Active |
-| [Suspension Tuning Advisor](https://github.com/AdrianoNTorres/BEAM-PROJECT-V1) | Finds the best spring and damper settings for a car, using a physics simulation and Bayesian optimization | Python, SciPy, Streamlit | <img src="assets/status/prototype.svg" width="14" height="14" alt=""> Working&nbsp;prototype |
-| [1D-Physics-Engine](https://github.com/AdrianoNTorres/1D-Physics-Engine) | Collision and momentum simulator | Python | <img src="assets/status/finished.svg" width="14" height="14" alt=""> Finished |
-| [GraphsOfNorms](https://github.com/AdrianoNTorres/GraphsOfNorms) | Visualizes mathematical norms | Python, PySide6 | <img src="assets/status/finished.svg" width="14" height="14" alt=""> Finished |
-| [campuspass](https://github.com/AdrianoNTorres/campuspass) | IBM Bob certificate project | HTML | <img src="assets/status/finished.svg" width="14" height="14" alt=""> Finished |
-| Silent-Voice | Lip-reading aid for hospital patients (design stage) | Python, PyTorch | <img src="assets/status/in-progress.svg" width="14" height="14" alt=""> In&nbsp;progress |
+| [IBM-AI-RACE-CHALLENGE](https://github.com/AdrianoNTorres/IBM-AI-RACE-CHALLENGE) | Self-driving racing bot for TORCS, tuned over 133 versions | Python, JavaScript | <img src="assets/status/active.svg" width="22" height="22" alt=""> Active |
+| [Suspension Tuning Advisor](https://github.com/AdrianoNTorres/BEAM-PROJECT-V1) | Finds the best spring and damper settings for a car, using a physics simulation and Bayesian optimization | Python, SciPy, Streamlit | <img src="assets/status/prototype.svg" width="22" height="22" alt=""> Working&nbsp;prototype |
+| [1D-Physics-Engine](https://github.com/AdrianoNTorres/1D-Physics-Engine) | Collision and momentum simulator | Python | <img src="assets/status/finished.svg" width="22" height="22" alt=""> Finished |
+| [GraphsOfNorms](https://github.com/AdrianoNTorres/GraphsOfNorms) | Visualizes mathematical norms | Python, PySide6 | <img src="assets/status/finished.svg" width="22" height="22" alt=""> Finished |
+| [campuspass](https://github.com/AdrianoNTorres/campuspass) | IBM Bob certificate project | HTML | <img src="assets/status/finished.svg" width="22" height="22" alt=""> Finished |
+| Silent-Voice | Lip-reading aid for hospital patients (design stage) | Python, PyTorch | <img src="assets/status/in-progress.svg" width="22" height="22" alt=""> In&nbsp;progress |
 
 <!-- add new project here -->
 
