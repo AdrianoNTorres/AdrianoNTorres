@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="36" viewBox="0 0 270 36" role="img" aria-label="Personal email: Proton Mail">
-<rect x="0.5" y="0.5" width="269" height="35" rx="8" fill="#161B22" stroke="#30363d"/>
-<rect x="0.5" y="0.5" width="4" height="35" rx="2" fill="#8b6cff"/>
-<rect x="14" y="11" width="16" height="14" rx="2" fill="none" stroke="#8b6cff" stroke-width="1.6"/><polyline points="14.8,12 22,19 29.2,12" fill="none" stroke="#8b6cff" stroke-width="1.6"/>
-<text x="42" y="22.5" font-size="13.5" font-weight="600" fill="#e6edf3" font-family="Segoe UI,-apple-system,Helvetica,Arial,sans-serif">Personal email: Proton Mail</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="44" viewBox="0 0 292 44" role="img" aria-label="Personal email: Proton Mail">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b6cff"/><stop offset="1" stop-color="#3fff6b"/></linearGradient></defs>
+<style>text{font-family:"Segoe UI",-apple-system,"Helvetica Neue",Arial,sans-serif}</style>
+<rect x="1" y="1" width="290" height="42" rx="21" fill="#0d1520" stroke="url(#b)" stroke-width="1.6"/>
+<circle cx="22" cy="22" r="13" fill="#8b6cff"/>
+<rect x="14.5" y="16.5" width="15" height="11" rx="2" fill="none" stroke="#fff" stroke-width="1.5"/><polyline points="15.2,17.2 22,23 28.8,17.2" fill="none" stroke="#fff" stroke-width="1.5"/>
+<text x="45" y="27" font-size="14.5" font-weight="600" fill="#f0f6fc">Personal email: Proton Mail</text>
 </svg>

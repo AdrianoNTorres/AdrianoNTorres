@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210" height="36" viewBox="0 0 210 36" role="img" aria-label="Connect on LinkedIn">
-<rect x="0.5" y="0.5" width="209" height="35" rx="8" fill="#161B22" stroke="#30363d"/>
-<rect x="0.5" y="0.5" width="4" height="35" rx="2" fill="#0A66C2"/>
-<rect x="14" y="10" width="16" height="16" rx="3" fill="#0A66C2"/><text x="22" y="22.5" font-size="10" font-weight="700" fill="#fff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">in</text>
-<text x="42" y="22.5" font-size="13.5" font-weight="600" fill="#e6edf3" font-family="Segoe UI,-apple-system,Helvetica,Arial,sans-serif">Connect on LinkedIn</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="44" viewBox="0 0 232 44" role="img" aria-label="Connect on LinkedIn">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f81f7"/><stop offset="1" stop-color="#3fff6b"/></linearGradient></defs>
+<style>text{font-family:"Segoe UI",-apple-system,"Helvetica Neue",Arial,sans-serif}</style>
+<rect x="1" y="1" width="230" height="42" rx="21" fill="#0d1520" stroke="url(#b)" stroke-width="1.6"/>
+<circle cx="22" cy="22" r="13" fill="#2f81f7"/>
+<text x="22" y="27.2" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">in</text>
+<text x="45" y="27" font-size="14.5" font-weight="600" fill="#f0f6fc">Connect on LinkedIn</text>
 </svg>

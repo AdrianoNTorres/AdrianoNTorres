@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340" role="img" aria-label="Adriano N. Torres. Physics student at Stony Brook; I build Python tools, simulations and optimizers; looking for 2027 ML and data internships. TORCS lap 2:43.38 to 1:05.56, 133 tested versions, 9 certificates.">
+<defs>
+<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="340"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0f2a2a"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".07"/></pattern>
+</defs>
+<style>
+text{font-family:"Segoe UI",-apple-system,"Helvetica Neue",Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}
+.sub{opacity:0;animation:sub 9s infinite;animation-fill-mode:backwards}
+.s2{animation-delay:3s}.s3{animation-delay:6s}
+@keyframes sub{0%{opacity:0;transform:translateY(6px)}4%,29%{opacity:1;transform:none}33%,100%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.sub{animation:none}.s2,.s3{display:none}.sub{opacity:1}.cur{animation:none}}
+</style>
+<path d="M480,0 H18 A18,18 0 0 0 0,18 V322 A18,18 0 0 0 18,340 H480 Z" fill="url(#bg)"/>
+<path d="M480,0 H18 A18,18 0 0 0 0,18 V322 A18,18 0 0 0 18,340 H480 Z" fill="url(#grid)"/>
+<path d="M480,0.5 H18.5 A17.5,17.5 0 0 0 0.5,18 V322 A17.5,17.5 0 0 0 18.5,339.5 H480" fill="none" stroke="#2ea04355"/>
+<text x="40" y="124" font-size="48" font-weight="700" fill="#f0f6fc" letter-spacing="-1">Adriano N. Torres</text>
+<rect x="42" y="140" width="64" height="4" rx="2" fill="#3fff6b"/>
+<g class="mono" font-size="15" fill="#3fff6b"><text class="sub s1" x="40" y="190">&gt; Physics student at Stony Brook<tspan class="cur">_</tspan></text><text class="sub s2" x="40" y="190">&gt; I build Python tools, simulations and optimizers<tspan class="cur">_</tspan></text><text class="sub s3" x="40" y="190">&gt; Looking for 2027 ML and data internships<tspan class="cur">_</tspan></text></g>
+<rect x="40" y="212" width="400" height="112" rx="12" fill="#0b1522" fill-opacity=".85" stroke="#263241"/><rect x="45" y="218" width="390" height="32" rx="8" fill="#3fff6b" fill-opacity=".1"/><rect x="45" y="223" width="3" height="22" rx="1.5" fill="#3fff6b"/><text x="60" y="240" font-size="16" fill="#b8c4d2">TORCS lap</text><text class="mono" x="422" y="240" font-size="18" font-weight="700" fill="#3fff6b" text-anchor="end">2:43.38 → 1:05.56</text><text x="60" y="274" font-size="16" fill="#b8c4d2">Tested versions</text><text class="mono" x="422" y="274" font-size="18" font-weight="700" fill="#f0f6fc" text-anchor="end">133</text><text x="60" y="308" font-size="16" fill="#b8c4d2">Certificates</text><text class="mono" x="422" y="308" font-size="18" font-weight="700" fill="#f0f6fc" text-anchor="end">9</text>
+</svg>
